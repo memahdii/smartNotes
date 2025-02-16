@@ -102,7 +102,7 @@
           <mxGeometry x="1718" y="431" width="143" height="92" as="geometry" />
         </mxCell>
         <mxCell id="2DQe4uAKgCYchEltKK3G-138" value="User" style="html=1;overflow=block;blockSpacing=1;shape=umlActor;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;whiteSpace=nowrap;fontSize=12.4;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=MqcVV5ANGu6o;" vertex="1" parent="1">
-          <mxGeometry x="983" y="455" width="60" height="135" as="geometry" />
+          <mxGeometry x="976.5" y="455" width="60" height="135" as="geometry" />
         </mxCell>
         <mxCell id="2DQe4uAKgCYchEltKK3G-139" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=10;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;entryX=-0.012;entryY=0.073;entryPerimeter=0;lucidId=MqcVYArAM2zq;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
