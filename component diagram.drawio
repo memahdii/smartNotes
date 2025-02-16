@@ -11,10 +11,10 @@
           <mxGeometry x="90" y="170" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YJwmVk056Xezfj7SXpw_-2" value="Local Data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="60" width="80" height="30" as="geometry" />
+          <mxGeometry x="90" y="60" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YJwmVk056Xezfj7SXpw_-3" value="Mobile Device" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="60" width="100" height="30" as="geometry" />
+          <mxGeometry x="465" y="60" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YJwmVk056Xezfj7SXpw_-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="90" width="330" height="70" as="geometry" />
@@ -66,6 +66,33 @@
             <mxPoint x="169" y="315" as="sourcePoint" />
             <mxPoint x="170" y="255" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-25" value="Data Access" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="275" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-26" value="Data Utilities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="275" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-27" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Service Tools&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="275" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="150" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-35" value="Configuration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="130" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-36" value="Security" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="190" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-37" value="Communications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="250" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-38" value="Common" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="90" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
