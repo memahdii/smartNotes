@@ -94,6 +94,30 @@
         <mxCell id="YJwmVk056Xezfj7SXpw_-38" value="Common" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="90" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="395" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="403" width="230" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-41" value="Data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-42" value="Data Access" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="410.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="403" width="237.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-45" value="Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-46" value="Sync" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJwmVk056Xezfj7SXpw_-47" value="Remote&lt;div&gt;Infrastructure&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="537.5" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
